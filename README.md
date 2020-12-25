@@ -11,6 +11,8 @@ This is my Website: [patrickhaussmann.de](https://patrickhaussmann.de/)
 ---
 
 <img width="47%" align="left" alt="PatrickHaussmann's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&layout=compact">
-<img style="width:47%; align="right" padding: 0;" alt="PatrickHaussmann's github stats" src="https://github-readme-stats.vercel.app/api?username=PatrickHaussmann&show_icons=true&count_private=true&hide=stars">
+<div style="max-width:50%" class="note">
+<img width="47%" align="right" alt="PatrickHaussmann's github stats" src="https://github-readme-stats.vercel.app/api?username=PatrickHaussmann&show_icons=true&count_private=true&hide=stars">
+</div>
 
 
