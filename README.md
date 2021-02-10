@@ -1,7 +1,7 @@
 # Hello.
 ## My name is Patrick Haußmann.
 
-I am a physics student in Munich, Germany at [LMU](https://www.en.uni-muenchen.de/).
+I am a physics student in Munich, Germany at [LMU](https://www.lmu.de/en/).
 
 My interests are physics, math, mountain biking, [photography](https://patrickhaussmann.de/gallery), [programming](https://app.5ls.de/) (some of my work is here on Github)
 
