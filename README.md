@@ -13,10 +13,10 @@ This is my Website: [patrickhaussmann.de](https://patrickhaussmann.de/)
 
 
 <h3 align="left">Github Stats </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickHaussmann&show_icons=true&locale=en" alt="PatrickHaussmann" /></p>
+<p><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickHaussmann&show_icons=true&locale=en" alt="PatrickHaussmann" /></a></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickHaussmann" alt="PatrickHaussmann" /></p>
+<p><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickHaussmann" alt="PatrickHaussmann" /></a></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&layout=compact" /></p>
+<p><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&layout=compact" /></a></p>
