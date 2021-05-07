@@ -10,6 +10,13 @@ This is my Website: [patrickhaussmann.de](https://patrickhaussmann.de/)
 
 ---
 
-<img width="47%" align="left" alt="PatrickHaussmann's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&layout=compact">
-<img width="47%" align="left" alt="PatrickHaussmann's github stats" src="https://github-readme-stats.vercel.app/api?username=PatrickHaussmann&show_icons=true&count_private=true&hide=stars">
 
+
+<h3 align="left">Github Stats </h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickHaussmann&show_icons=true&locale=en" alt="PatrickHaussmann" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickHaussmann" alt="PatrickHaussmann" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&layout=compact" /></p>
