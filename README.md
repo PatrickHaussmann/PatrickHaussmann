@@ -19,4 +19,4 @@ This is my Website: [patrickhaussmann.de](https://patrickhaussmann.de/)
 <p><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickHaussmann" alt="PatrickHaussmann" /></a></p>
 
 
-<p><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&layout=compact" /></a></p>
+<p><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHaussmann&exclude_repo=dotfiles&layout=compact&langs_count=6" /></a></p>
