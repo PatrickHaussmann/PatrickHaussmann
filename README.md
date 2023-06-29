@@ -3,7 +3,7 @@
 
 I am a physics student in Munich, Germany at [LMU](https://www.lmu.de/en/).
 
-My interests are physics, math, mountain biking, [photography](https://patrickhaussmann.de/gallery), [programming](https://app.5ls.de/) (some of my work is here on Github)
+My interests are physics, math, mountain biking, photography, programming ([Sourcehut](https://git.sr.ht/~patrickhaussmann/), [Github](https://github.com/PatrickHaussmann))
 
 This is my Website: [patrickhaussmann.de](https://patrickhaussmann.de/)
 
